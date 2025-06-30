@@ -9,12 +9,12 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/mAtwAe/archie)"
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/mAtwAe/archie"
 
 [[params.social]]
 name = "Twitter"
